@@ -14,7 +14,7 @@ callback item click llistner events
  Official Library  : 
 https://github.com/Ramotion/folding-cell-android 
  
- the problem i found that library demo work with list view so i need to custom sample work with recycler view .
+ the problem i found that library demo work with list view and not show all features so i need to custom sample work with recycler view .
 
 
 ![alt text](https://raw.githubusercontent.com/Ramotion/folding-cell-android/master/folding_cell_preview.gif)
